@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.dao.WatchedDao.java&apos; to &apos;WatchedDAO.java&apos;&#x0D;&#x0A;- Original project: &apos;asm&apos;&#x0D;&#x0A;- Original element: &apos;com.dao.WatchedDao.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dao.WatchedDAO.java&apos;" description="Rename compilation unit &apos;WatchedDao.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dao{WatchedDao.java" name="WatchedDAO.java" references="false" stamp="1721536772181" version="1.0"/>
+</session>
